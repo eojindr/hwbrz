@@ -30,6 +30,6 @@ int main() {
 			sfibo(n);
 	}
 
-	system("pause");
+	system("pause"); //hwbrz
 	return 0;
 }
